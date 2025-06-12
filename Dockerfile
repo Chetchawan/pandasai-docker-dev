@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # กำหนดคำสั่งรันสคริปต์ Python
-CMD ["python", "app2.py"]
+CMD ["python", "ai_speak.py"]

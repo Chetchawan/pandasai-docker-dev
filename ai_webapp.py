@@ -5,7 +5,7 @@ from langchain_groq.chat_models import ChatGroq
 import os
 from dotenv import load_dotenv
 
-# โหลด environment variables จากไฟล์ .env
+# โหลด environment variables เพื่อเอา api-key จากไฟล์ .env 
 load_dotenv()
 
 st.title("Analytica-X AI")

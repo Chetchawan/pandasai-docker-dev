@@ -3,4 +3,5 @@ langchain-groq
 pandas
 numpy==1.25.2
 pandasai==1.5.15
+streamlit
 
